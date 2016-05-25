@@ -1,0 +1,16 @@
+{
+  "name": "riot-update-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server ."
+  },
+  "keywords": [],
+  "author": "jaketrent",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^0.9.0",
+    "riot": "^2.4.1"
+  }
+}
